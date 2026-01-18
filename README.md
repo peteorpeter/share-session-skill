@@ -21,7 +21,7 @@ report.
 2. Unzip into your Claude skills directory:
 
 ```bash
-unzip ~/Downloads/share-session-skill.zip -d ~/.claude/skills/
+unzip ~/Downloads/share-session.zip -d ~/.claude/skills/
 ```
 
 > Note: GitHub usually names the folder share-session-skill-main/. If you want it to be share-session/, rename it after unzip.
