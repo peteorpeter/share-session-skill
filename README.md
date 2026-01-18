@@ -16,7 +16,7 @@ report.
 ### Option A: Direct ZIP download (no git)
 
 1. Download the pre-packaged ZIP file from GitHub:
-   [https://codeload.github.com/peteorpeter/share-session-skill/zip/refs/heads/main](https://github.com/peteorpeter/share-session-skill/raw/refs/heads/main/share-session.zip)
+   [share-session.zip](https://github.com/peteorpeter/share-session-skill/raw/refs/heads/main/share-session.zip)
 
 2. Unzip into your Claude skills directory:
 
